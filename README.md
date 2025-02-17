@@ -1,18 +1,20 @@
 # Libft
 
-This project aims to redo a library of usual functions in C that can be used is the next projects of Codam.
+This project aims to redo a library of usual functions in C that can be used in the next projects of Codam.
 
 **Compilation & Usage**
 To compile the library, you can use the following commands:
-make or make all - Compiles the library.
-make clean - Removes the object files generated during compilation.
-make fclean - Removes the compiled library and the object files.
-make re - Performs a clean recompilation of the library.
-make bonus - Compiles the library including the bonus part.
+
+-   make or make all - Compiles the library.
+-   make clean - Removes the object files generated during compilation.
+-   make fclean - Removes the compiled library and the object files.
+-   make re - Performs a clean recompilation of the library.
+-   make bonus - Compiles the library including the bonus part.
 
 **The Makefile uses the following compilation flags:**
--Wall -Wextra -Werror - Enables additional warnings and treats warnings as errors.
--I. - Specifies the include directory for header files.
+
+-   -Wall -Wextra -Werror - Enables additional warnings and treats warnings as errors.
+-   -I. - Specifies the include directory for header files.
 
 # Functions included in library
 
