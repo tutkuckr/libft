@@ -18,13 +18,13 @@ make bonus - Compiles the library including the bonus part.
 
 ## Functions from `<ctype.h>`
 
--   `int ft_isalpha(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_isalpha.c) - Check if a character is an alphabetic character.
--   `int ft_isdigit(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_isdigit.c) - Check if a character is a digit.
--   `int ft_isalnum(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_isalnum.c) - Check if a character is alphanumeric.
--   `int ft_isascii(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_isascii.c)- Check if a character is within the ASCII range.
--   `int ft_isprint(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_isprint.c) - Check if a character is printable.
--   `int ft_toupper(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_toupper.c) - Convert a lowercase character to uppercase.
--   `int ft_tolower(int c);`(https://github.com/tutkuckr/libft/blob/main/ft_tolower.c) - Convert an uppercase character to lowercase.
+-   [`int ft_isalpha(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_isalpha.c) - Check if a character is an alphabetic character.
+-   [`int ft_isdigit(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_isdigit.c) - Check if a character is a digit.
+-   [`int ft_isalnum(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_isalnum.c) - Check if a character is alphanumeric.
+-   [`int ft_isascii(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_isascii.c)- Check if a character is within the ASCII range.
+-   [`int ft_isprint(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_isprint.c) - Check if a character is printable.
+-   [`int ft_toupper(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_toupper.c) - Convert a lowercase character to uppercase.
+-   [`int ft_tolower(int c);`](https://github.com/tutkuckr/libft/blob/main/ft_tolower.c) - Convert an uppercase character to lowercase.
 
 ## Functions from `<string.h>`
 
