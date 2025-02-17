@@ -1,6 +1,6 @@
 # Libft
 
-This project aims to redo a library of usual functions in C that can be used in the next projects of Codam.
+This project aims to redo a library of some functions in C that can be used in the next projects of Codam.
 
 **Compilation & Usage**
 To compile the library, you can use the following commands:
